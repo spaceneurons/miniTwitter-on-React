@@ -7,8 +7,7 @@ const PostAddForm = () => {
             <input
                 type="text"
                 placeholder="О чем вы думаете сейчас?"
-                className="from-control new=post-label"/>
-
+                className="form-control new-post-label"/>
             <button type="submit" className="btn btn-outline-secondary">
                 Добавить</button>
 
